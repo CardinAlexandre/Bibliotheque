@@ -1,0 +1,15 @@
+/Users/Heisenberg/Projects/Bibliotheque/Bibliotheque/bin/Debug/net7.0/Bibliotheque
+/Users/Heisenberg/Projects/Bibliotheque/Bibliotheque/bin/Debug/net7.0/Bibliotheque.deps.json
+/Users/Heisenberg/Projects/Bibliotheque/Bibliotheque/bin/Debug/net7.0/Bibliotheque.runtimeconfig.json
+/Users/Heisenberg/Projects/Bibliotheque/Bibliotheque/bin/Debug/net7.0/Bibliotheque.dll
+/Users/Heisenberg/Projects/Bibliotheque/Bibliotheque/bin/Debug/net7.0/Bibliotheque.pdb
+/Users/Heisenberg/Projects/Bibliotheque/Bibliotheque/obj/Debug/net7.0/Bibliotheque.csproj.AssemblyReference.cache
+/Users/Heisenberg/Projects/Bibliotheque/Bibliotheque/obj/Debug/net7.0/Bibliotheque.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Heisenberg/Projects/Bibliotheque/Bibliotheque/obj/Debug/net7.0/Bibliotheque.AssemblyInfoInputs.cache
+/Users/Heisenberg/Projects/Bibliotheque/Bibliotheque/obj/Debug/net7.0/Bibliotheque.AssemblyInfo.cs
+/Users/Heisenberg/Projects/Bibliotheque/Bibliotheque/obj/Debug/net7.0/Bibliotheque.csproj.CoreCompileInputs.cache
+/Users/Heisenberg/Projects/Bibliotheque/Bibliotheque/obj/Debug/net7.0/Bibliotheque.dll
+/Users/Heisenberg/Projects/Bibliotheque/Bibliotheque/obj/Debug/net7.0/refint/Bibliotheque.dll
+/Users/Heisenberg/Projects/Bibliotheque/Bibliotheque/obj/Debug/net7.0/Bibliotheque.pdb
+/Users/Heisenberg/Projects/Bibliotheque/Bibliotheque/obj/Debug/net7.0/Bibliotheque.genruntimeconfig.cache
+/Users/Heisenberg/Projects/Bibliotheque/Bibliotheque/obj/Debug/net7.0/ref/Bibliotheque.dll
