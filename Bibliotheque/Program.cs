@@ -5,11 +5,9 @@ Biblio bibliotheque = new Biblio();
 Roman roman1 = new Roman("CToutVert", "Alex", "Aventure");
 BD bd1 = new BD("CToutJaune", "Thomas", 1);
 Roman roman2 = new Roman("CToutRouge", "Arthur", "Policier");
-Livre book = new Livre("CToutNoir", "FDP");
 bibliotheque.AjouterLivre(roman1);
 bibliotheque.AjouterLivre(bd1);
 bibliotheque.AjouterLivre(roman2);
-bibliotheque.AjouterLivre(book);
 
 Console.WriteLine("\nAffichage de tous les livres dans la bibliothèque :");
 bibliotheque.AfficherLivres();
