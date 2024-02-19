@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Bibliotheque.Models
 {
-	public class Livre
+	abstract class Livre
 	{
         public string Titre { get; set; }
         public string Auteur { get; set; }
@@ -12,10 +12,7 @@ namespace Bibliotheque.Models
             Auteur = auteur;
         }
 
-        public virtual void AfficherDetails()
-        {
-            Console.WriteLine($"Titre: {Titre}, Auteur: {Auteur}");
-        }
+        public abstract void AfficherDetails();
     }
 
     class Roman : Livre
