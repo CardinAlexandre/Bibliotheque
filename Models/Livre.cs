@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Bibliotheque.Models
 {
-	abstract class Livre
+    public abstract class Livre
 	{
         public string Titre { get; set; }
         public string Auteur { get; set; }
